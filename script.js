@@ -1,3 +1,4 @@
+const API_KEY = "AIzaSyD-fvLnQybF6ny6AlFkydyEi2bhhIqfvDY"
 document.addEventListener('DOMContentLoaded', () => {
     const $ = s => document.querySelector(s);
     const $$ = s => document.querySelectorAll(s);
